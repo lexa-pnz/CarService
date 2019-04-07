@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarService</string>
+    <string name="action_ClearDB">ClearDB</string>
+    <string name="action_Exit">Exit</string>
+</resources>
